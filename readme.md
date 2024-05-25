@@ -114,5 +114,5 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
+|How to Create Responsive Resume Website using HTML and CSS | Resume CV design in HTML CSS|Used as a guide on emmets and the basics of CSS and HTML in VSCode|https://www.youtube.com/watch?v=hnjHCmaUVPg|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
