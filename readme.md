@@ -9,18 +9,18 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WEBPAGE OF MY PORTFOLIO AND RESUME</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This is my webpage and resume portfolio
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=itsquas05/WD---PROJECT-1)
 
 ---
 
@@ -57,13 +57,17 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project is about creating my own portfolio and web page using HTML and CSS
 
 Guiding Question:
 - What is the project
+The project is about creating your own webpage of portfolio that redirects you to your own resume
 - Whats the purpose
+The purpose of this project is to utilize my skills about CSS and HTML in order to create better looking Webpages
 - What are key components
+The key components to this project is CSS and HTML
 - What technology used and how it is used
+CSS and HTML
 
 ### Key Components
 <!-- TODO: List of Key Components -->
